@@ -1,5 +1,7 @@
 101filed.com
 adjust.com
+adsco.re
+artcrypto.exchange
 binance.com
 bnbstatic.com
 bonnnesfoxily.com
@@ -21,6 +23,7 @@ maysunown.live
 offergate-software20.com
 online-deal.click
 outbrain.com
+pijigisasdspsl.com
 pogothere.xyz
 pubads.g.doubleclick.net
 pubads46.g.doubleclick.net
@@ -31,4 +34,5 @@ rajapack.de
 smartadserver.com
 tii.la
 yieldtrk.com
+ytimg.com
 zonefiled.com
