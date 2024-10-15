@@ -35,12 +35,14 @@ pubads46.g.doubleclick.net
 pubfuture-ad.com
 qvdt3feo.com
 qxdownload.com
+r.linksprf.com
 rajapack.de
 region1.google-analytics.com
 smartadserver.com
 tii.la
 tpc.googlesyndication.com
 ukankingwithea.com
+want-some-psh.com
 www.googletagmanager.com
 yieldtrk.com
 ytimg.com
