@@ -17,6 +17,8 @@ fundingchoicesmessages.google.com
 google-analytics.com
 googleads.g.doubleclick.net
 googlesyndication.com
+googletagmanager.com
+grixaign.top
 haulairtime.com
 joinlayjay.live
 lifestylehubz.com
@@ -43,7 +45,7 @@ tii.la
 tpc.googlesyndication.com
 ukankingwithea.com
 want-some-psh.com
-www.googletagmanager.com
+xml-v4.fstsrv16.com
 yieldtrk.com
 ytimg.com
 zonefiled.com
