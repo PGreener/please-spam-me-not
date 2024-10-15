@@ -1,6 +1,7 @@
 101filed.com
 adjust.com
 adsco.re
+app-measurement.com
 artcrypto.exchange
 binance.com
 bnbstatic.com
@@ -10,7 +11,9 @@ cdn4ads.com
 ctthatmyeduca.net
 dealsrazor.com
 dreamsoppressive.com
+eoneintheworldw.com
 flirtooy.com
+fundingchoicesmessages.google.com
 google-analytics.com
 googleads.g.doubleclick.net
 googlesyndication.com
@@ -23,6 +26,8 @@ maysunown.live
 offergate-software20.com
 online-deal.click
 outbrain.com
+oywhowascryingfo.com
+pagead2.googlesyndication.com
 pijigisasdspsl.com
 pogothere.xyz
 pubads.g.doubleclick.net
@@ -31,8 +36,12 @@ pubfuture-ad.com
 qvdt3feo.com
 qxdownload.com
 rajapack.de
+region1.google-analytics.com
 smartadserver.com
 tii.la
+tpc.googlesyndication.com
+ukankingwithea.com
+www.googletagmanager.com
 yieldtrk.com
 ytimg.com
 zonefiled.com
