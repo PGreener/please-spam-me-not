@@ -1,4 +1,6 @@
 101filed.com
+4.adsco.re
+6.adsco.re
 adjust.com
 adsco.re
 app-measurement.com
@@ -7,6 +9,7 @@ binance.com
 bnbstatic.com
 bonnnesfoxily.com
 boomerang-bet616356.com
+c.adsco.re
 cdn4ads.com
 ctthatmyeduca.net
 dealsrazor.com
@@ -20,7 +23,9 @@ googlesyndication.com
 googletagmanager.com
 grixaign.top
 haulairtime.com
+hduqyjyisndeg.com
 joinlayjay.live
+latoken.com
 lifestylehubz.com
 linksprf.com
 marticliment.com
@@ -31,6 +36,7 @@ outbrain.com
 oywhowascryingfo.com
 pagead2.googlesyndication.com
 pijigisasdspsl.com
+plus500.com
 pogothere.xyz
 pubads.g.doubleclick.net
 pubads46.g.doubleclick.net
@@ -41,6 +47,7 @@ r.linksprf.com
 rajapack.de
 region1.google-analytics.com
 smartadserver.com
+snammar-jumntal.com
 snuffstore.eu
 tii.la
 tpc.googlesyndication.com
