@@ -2,6 +2,7 @@
 4.adsco.re
 6.adsco.re
 aax-eu.amazon-adsystem.com
+adform.net
 adjust.com
 adright.xml-v4.ak-is2.net
 adsco.re
