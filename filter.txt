@@ -14,6 +14,7 @@ boomerang-bet616356.com
 c.adsco.re
 casinoohneoasis.bet
 cdn4ads.com
+click.a-ads.com
 ctthatmyeduca.net
 dealsrazor.com
 dreamsoppressive.com
@@ -38,12 +39,14 @@ marticliment.com
 maysunown.live
 offergate-software20.com
 online-deal.click
+ortb.pubfuture-ad.com
 outbrain.com
 oywhowascryingfo.com
 pagead2.googlesyndication.com
 pijigisasdspsl.com
 plus500.com
 pogothere.xyz
+prebid-eu.creativecdn.com
 pubads.g.doubleclick.net
 pubads46.g.doubleclick.net
 pubfuture-ad.com
@@ -52,11 +55,16 @@ qxdownload.com
 r.linksprf.com
 rajapack.de
 region1.google-analytics.com
+rtb.adxpremium.services
+rtbnote.bsmartdata.com
+s3.adxpremium.services
 smartadserver.com
 snammar-jumntal.com
 snuffstore.eu
+t.adcell.com
 tii.la
 tpc.googlesyndication.com
+track-eu.adformnet.akadns.net
 ukankingwithea.com
 want-some-psh.com
 xml-v4.fstsrv16.com
@@ -64,4 +72,3 @@ xml-v4.fstsrv17.com
 yieldtrk.com
 ytimg.com
 zonefiled.com
-click.a-ads.com
