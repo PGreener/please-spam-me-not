@@ -1,6 +1,4 @@
 101filed.com
-4.adsco.re
-6.adsco.re
 a-ads.com
 aax-eu.amazon-adsystem.com
 adform.net
@@ -13,7 +11,6 @@ binance.com
 bnbstatic.com
 bonnnesfoxily.com
 boomerang-bet616356.com
-c.adsco.re
 casinoohneoasis.bet
 cdn.pubfuture-ad.com
 cdn4ads.com
