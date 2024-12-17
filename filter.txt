@@ -6,7 +6,9 @@ adjust.com
 adright.xml-v4.ak-is2.net
 adsco.re
 app-measurement.com
+arc.io
 artcrypto.exchange
+aukthwaealsoext.com
 binance.com
 bnbstatic.com
 bonnnesfoxily.com
@@ -27,6 +29,7 @@ google-analytics.com
 googleads.g.doubleclick.net
 googlesyndication.com
 googletagmanager.com
+gravatar.com
 grixaign.top
 haulairtime.com
 hduqyjyisndeg.com
@@ -73,6 +76,7 @@ track-eu.adformnet.akadns.net
 ukankingwithea.com
 upset-rent.com
 want-some-psh.com
+withmefeyaukn.com
 xml-v4.fstsrv16.com
 xml-v4.fstsrv17.com
 yieldtrk.com
